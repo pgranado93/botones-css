@@ -1,0 +1,25 @@
+/* etiquetas */
+body {
+    padding: 50px
+}
+.button {
+    font-size: 10px; 
+    padding: 35px;
+    width: 5cm;
+    background-color: fuchsia;
+    border-block-end-color: white;
+}
+.button-primary {
+    background-color:red;
+    border-block-end-style: ridge
+}
+.button-secondary{
+    background-color: blue;
+}
+.semi-circle{
+    border-radius: 25%
+}
+.circle-form {
+    background-color: yellow;
+    border-radius: 50%;
+    
